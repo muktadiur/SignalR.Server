@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Microsoft.AspNet.SignalR;
 
-namespace IMS.SignalR.Models
+namespace SignalR.Server.Models
 {
     
     public class GroupHub : Hub

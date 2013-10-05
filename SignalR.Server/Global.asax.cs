@@ -8,7 +8,7 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using Microsoft.AspNet.SignalR;
 
-namespace IMS.SignalR
+namespace SignalR.Server
 {
     // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
     // visit http://go.microsoft.com/?LinkId=9394801
@@ -22,6 +22,7 @@ namespace IMS.SignalR
                 EnableCrossDomain = true
             };
             RouteTable.Routes.MapHubs(config);
+
             AreaRegistration.RegisterAllAreas();
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

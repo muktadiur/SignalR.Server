@@ -38,3 +38,42 @@ G:\IMS.SignalR\SignalR.Server\bin\System.Web.WebPages.Razor.xml
 G:\IMS.SignalR\SignalR.Server\obj\Debug\SignalR.Server.csprojResolveAssemblyReference.cache
 G:\IMS.SignalR\SignalR.Server\obj\Debug\IMS.SignalR.dll
 G:\IMS.SignalR\SignalR.Server\obj\Debug\IMS.SignalR.pdb
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Antlr3.Runtime.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\EntityFramework.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.AspNet.SignalR.Owin.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.Web.Infrastructure.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Newtonsoft.Json.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Owin.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Net.Http.Formatting.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Http.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Http.WebHost.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Mvc.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Optimization.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Providers.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Razor.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.WebPages.Deployment.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.WebPages.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.WebPages.Razor.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\WebGrease.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.AspNet.SignalR.Owin.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\EntityFramework.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\Newtonsoft.Json.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Net.Http.Formatting.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Http.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Http.WebHost.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Mvc.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.Razor.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.WebPages.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.WebPages.Deployment.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\System.Web.WebPages.Razor.xml
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\SignalR.Server.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\bin\SignalR.Server.pdb
+F:\Github Projects\SignalR.Server\SignalR.Server\obj\Debug\SignalR.Server.dll
+F:\Github Projects\SignalR.Server\SignalR.Server\obj\Debug\SignalR.Server.pdb

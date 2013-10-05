@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace IMS.SignalR
+namespace SignalR.Server
 {
     public class FilterConfig
     {

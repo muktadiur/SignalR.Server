@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace IMS.SignalR
+namespace SignalR.Server
 {
     public static class WebApiConfig
     {

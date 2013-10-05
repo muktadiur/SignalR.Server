@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace IMS.SignalR.Controllers
+namespace SignalR.Server.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace IMS.SignalR
+namespace SignalR.Server
 {
     public class BundleConfig
     {
